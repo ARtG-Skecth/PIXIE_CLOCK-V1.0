@@ -10,6 +10,7 @@ DATOS DE INICIO EN TODO.txt
 #include "pixie1.h" //Split Flap
 #include "pixie2.h" //balloon
 
+
 #define DS3231_I2C_ADDRESS 0x68 //RTC DS3231 
 
 //DHT sensor es bidireccional no conectar en solo inputs pines
